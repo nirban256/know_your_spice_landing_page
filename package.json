@@ -1,0 +1,21 @@
+{
+  "name": "know-your-spice-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive Know Your Spice brand landing page built with Next.js, React and Tailwind CSS.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.14",
+    "tailwindcss": "^4.1.14",
+    "postcss": "^8.5.6"
+  }
+}
